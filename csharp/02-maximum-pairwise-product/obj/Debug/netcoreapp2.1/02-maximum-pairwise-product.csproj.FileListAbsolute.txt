@@ -1,0 +1,11 @@
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\bin\Debug\netcoreapp2.1\02-maximum-pairwise-product.deps.json
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\bin\Debug\netcoreapp2.1\02-maximum-pairwise-product.runtimeconfig.json
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\bin\Debug\netcoreapp2.1\02-maximum-pairwise-product.runtimeconfig.dev.json
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\bin\Debug\netcoreapp2.1\02-maximum-pairwise-product.dll
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\bin\Debug\netcoreapp2.1\02-maximum-pairwise-product.pdb
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\obj\Debug\netcoreapp2.1\02-maximum-pairwise-product.csprojAssemblyReference.cache
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\obj\Debug\netcoreapp2.1\02-maximum-pairwise-product.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\obj\Debug\netcoreapp2.1\02-maximum-pairwise-product.AssemblyInfoInputs.cache
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\obj\Debug\netcoreapp2.1\02-maximum-pairwise-product.AssemblyInfo.cs
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\obj\Debug\netcoreapp2.1\02-maximum-pairwise-product.dll
+C:\cygwin64\home\Avell\data_structures\csharp\02-maximum-pairwise-product\obj\Debug\netcoreapp2.1\02-maximum-pairwise-product.pdb

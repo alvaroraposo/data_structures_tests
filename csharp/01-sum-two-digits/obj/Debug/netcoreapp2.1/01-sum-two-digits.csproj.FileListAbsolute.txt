@@ -1,0 +1,11 @@
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\bin\Debug\netcoreapp2.1\01-sum-two-digits.deps.json
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\bin\Debug\netcoreapp2.1\01-sum-two-digits.runtimeconfig.json
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\bin\Debug\netcoreapp2.1\01-sum-two-digits.runtimeconfig.dev.json
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\bin\Debug\netcoreapp2.1\01-sum-two-digits.dll
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\bin\Debug\netcoreapp2.1\01-sum-two-digits.pdb
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\obj\Debug\netcoreapp2.1\01-sum-two-digits.csprojAssemblyReference.cache
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\obj\Debug\netcoreapp2.1\01-sum-two-digits.csproj.CoreCompileInputs.cache
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\obj\Debug\netcoreapp2.1\01-sum-two-digits.AssemblyInfoInputs.cache
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\obj\Debug\netcoreapp2.1\01-sum-two-digits.AssemblyInfo.cs
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\obj\Debug\netcoreapp2.1\01-sum-two-digits.dll
+C:\cygwin64\home\Avell\data_structures\csharp\01-sum-two-digits\obj\Debug\netcoreapp2.1\01-sum-two-digits.pdb
